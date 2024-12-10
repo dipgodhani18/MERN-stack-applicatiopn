@@ -1,1 +1,1 @@
-# MERN-stack-applicatiopn
+# MERN-stack-application
